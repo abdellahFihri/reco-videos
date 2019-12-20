@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reco-videos%20npm%20run%20deploy/static/css/main.b27e8eb1.chunk.css",
+    "main.js": "/reco-videos%20npm%20run%20deploy/static/js/main.a0dfd642.chunk.js",
+    "main.js.map": "/reco-videos%20npm%20run%20deploy/static/js/main.a0dfd642.chunk.js.map",
+    "runtime-main.js": "/reco-videos%20npm%20run%20deploy/static/js/runtime-main.cd35ba3e.js",
+    "runtime-main.js.map": "/reco-videos%20npm%20run%20deploy/static/js/runtime-main.cd35ba3e.js.map",
+    "static/js/2.4b8d1fab.chunk.js": "/reco-videos%20npm%20run%20deploy/static/js/2.4b8d1fab.chunk.js",
+    "static/js/2.4b8d1fab.chunk.js.map": "/reco-videos%20npm%20run%20deploy/static/js/2.4b8d1fab.chunk.js.map",
+    "index.html": "/reco-videos%20npm%20run%20deploy/index.html",
+    "precache-manifest.08377b5860be418de210512aae45b4a8.js": "/reco-videos%20npm%20run%20deploy/precache-manifest.08377b5860be418de210512aae45b4a8.js",
+    "service-worker.js": "/reco-videos%20npm%20run%20deploy/service-worker.js",
+    "static/css/main.b27e8eb1.chunk.css.map": "/reco-videos%20npm%20run%20deploy/static/css/main.b27e8eb1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd35ba3e.js",
+    "static/js/2.4b8d1fab.chunk.js",
+    "static/css/main.b27e8eb1.chunk.css",
+    "static/js/main.a0dfd642.chunk.js"
+  ]
+}
