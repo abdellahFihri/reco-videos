@@ -1,0 +1,15 @@
+body{
+  background:rgb(102, 2, 2);
+  color:whitesmoke!important;
+  scroll-behavior: smooth;
+}
+#root{
+  color:whitesmoke!important;
+}
+#details{
+background-color:rgb(225, 225, 245);
+color:black
+}
+.ui.grid{
+  margin-left:0.6rem;
+}
